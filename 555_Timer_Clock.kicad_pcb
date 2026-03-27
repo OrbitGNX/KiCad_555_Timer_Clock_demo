@@ -7,6 +7,13 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "555 Timer Clock")
+		(date "2026-03-26")
+		(rev "1")
+		(company "GYRONIX Embedded Systems")
+		(comment 1 "Design Engineer: Gyro Madrona")
+	)
 	(layers
 		(0 "F.Cu" mixed)
 		(2 "B.Cu" mixed)

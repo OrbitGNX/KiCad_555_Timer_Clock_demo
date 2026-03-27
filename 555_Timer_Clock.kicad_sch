@@ -8,7 +8,7 @@
 		(title "555 TIMER CLOCK")
 		(date "2026-03-26")
 		(rev "1")
-		(company "GYRONIX TECHNOLOGIES")
+		(company "GYRONIX Embedded Systems")
 		(comment 1 "Design Engineer: Gyro Madrona")
 	)
 	(lib_symbols
